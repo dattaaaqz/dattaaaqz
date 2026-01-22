@@ -1,12 +1,12 @@
 <h1 align="center">Hello, I'm Datta Dev</h1>
-<h3 align="center">A student full stack, I Love Programming</h3>
+<h3 align="center">A student full stack and Love Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dattaaaqz&label=Profile%20views&color=0e75b6&style=flat" alt="dattaaaqz" /> </p>
 
 
 - 🔭 I’m currently working on **Quality Software**
 
-- 🌱 I’m currently learning **Java, JavaScript, NodeJS, Python, Dart....**
+- 🌱 I’m currently learning **Java, JavaScript, NodeJS, Python, Dart, GoLang....**
 
 - 👨‍💻 All of my projects are available at [profile.devdatta.lat](profile.devdatta.lat)
 
@@ -15,6 +15,8 @@
 - 📫 How to reach me **daattaa@devdatta.lat**
 
 - 📄 Know about my experiences [Java and JavaScript](Java and JavaScript)
+- I have 17 years old.
+- I speak English and Spanish.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
