@@ -15,8 +15,8 @@
 - 📫 How to reach me **daattaa@devdatta.lat**
 
 - 📄 Know about my experiences [Java and JavaScript](Java and JavaScript)
-- I have 17 years old.
-- I speak English and Spanish.
+- 🏆 I have 17 years old.
+- ⭐ I speak English and Spanish.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
